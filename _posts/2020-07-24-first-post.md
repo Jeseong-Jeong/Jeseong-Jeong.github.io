@@ -1,6 +1,6 @@
 defaults:
   # _posts
-  - scope:
+    scope:
       path: ""
       type: posts
     values:
